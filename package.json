@@ -1,5 +1,6 @@
 {
   "name": "gpt3",
+  "homepage": "https://mprcode.pl/gpt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
